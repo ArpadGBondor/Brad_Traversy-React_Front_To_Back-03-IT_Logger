@@ -1,0 +1,49 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Changed network card in server 007",
+      "attention": false,
+      "tech": "Sam Smith",
+      "date": "2021-12-08T18:36:38.003Z"
+    },
+    {
+      "id": 2,
+      "message": "Fixed hard drive on workstation 002",
+      "attention": false,
+      "tech": "John Doe",
+      "date": "2021-12-08T18:36:42.346Z"
+    },
+    {
+      "id": 3,
+      "message": "1122 wireless down",
+      "attention": true,
+      "tech": "Sara Wilson",
+      "date": "2021-12-08T18:36:44.602Z"
+    },
+    {
+      "id": 4,
+      "message": "Workstation 026 is up and running",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2021-12-08T18:36:47.204Z"
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstname": "John",
+      "lastname": "Doe"
+    },
+    {
+      "id": 2,
+      "firstname": "Sam",
+      "lastname": "Smith"
+    },
+    {
+      "id": 3,
+      "firstname": "Sara",
+      "lastname": "Wilson"
+    }
+  ]
+}
